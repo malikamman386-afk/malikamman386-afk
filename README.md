@@ -27,3 +27,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikamman386-afk&show_icons=true&locale=en" alt="malikamman386-afk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikamman386-afk&" alt="malikamman386-afk" /></p>
+
+
+<h2 align="center">📈 Contribution Growth</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikamman386-afk&bg_color=0d1117&color=ffffff&line=39d353&point=39d353&area=true&hide_border=true" alt="Malik Hasan Contribution Graph" width="100%"/>
+</p>
